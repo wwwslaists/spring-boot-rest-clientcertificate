@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/restexamples")
+@RequestMapping("/api/v1")
 public class ServerController {
 
     public static final String RESPONSE = "Hello Rest-User!";
