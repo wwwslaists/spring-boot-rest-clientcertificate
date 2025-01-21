@@ -3,8 +3,11 @@
     "config:base"
   ],
   "automerge": true,
+
   "automergeType": "branch",
   "major": {
     "automerge": false
-  }
+  },
+  "prHourlyLimit": 2,
+  "prConcurrentLimit": 10
 }
