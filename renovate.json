@@ -9,5 +9,5 @@
     "automerge": false
   },
   "prHourlyLimit": 3,
-  "prConcurrentLimit": 10
+  "prConcurrentLimit": 7
 }
