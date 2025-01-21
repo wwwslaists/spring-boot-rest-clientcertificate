@@ -8,6 +8,6 @@
   "major": {
     "automerge": false
   },
-  "prHourlyLimit": 2,
+  "prHourlyLimit": 3,
   "prConcurrentLimit": 10
 }
