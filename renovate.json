@@ -6,5 +6,16 @@
   "automergeType": "branch",
   "major": {
     "automerge": false
-  }
+  },
+  "packageRules": [
+    {
+      "packagePatterns": [
+        "eslint-config-*",
+        "eslint-plugin-*",
+        "stylelint-config-*",
+        "stylelint-plugin-*"
+      ],
+      "enabled": false
+    }
+  ]
 }
